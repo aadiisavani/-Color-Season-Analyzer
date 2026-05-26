@@ -158,7 +158,7 @@ export const Results: React.FC<ResultsProps> = ({ skinColor, hairColor, eyeColor
           <div className="p-8 bg-gradient-to-r from-purple-50 to-pink-50 border-t-2 border-purple-200">
             <h3 className="text-sm font-bold text-gray-700 mb-4 uppercase tracking-wider">Ready to Shop?</h3>
             <a
-              href="https://www.gumroad.com" // Replace with actual Gumroad link
+              href="https://gumroad.com/YOUR_USERNAME/YOUR_PRODUCT_ID" // Replace with actual Gumroad link
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary w-full block text-center mb-3"
@@ -185,7 +185,7 @@ export const Results: React.FC<ResultsProps> = ({ skinColor, hairColor, eyeColor
         <div className="bg-white rounded-2xl shadow-lg p-6 border-2 border-purple-200 text-center">
           <p className="text-gray-700 mb-4">Loved this tool? Support us!</p>
           <a
-            href="https://buymeacoffee.com" // Replace with actual Ko-fi link
+            href="https://buymeacoffee.com/YOUR_USERNAME" // Replace with actual Ko-fi link
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block btn-secondary"
